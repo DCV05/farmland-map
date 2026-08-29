@@ -1,0 +1,23 @@
+{
+  "version": "3.13",
+  "useCookies": true,
+  "enableFreeFlight": true,
+  "resolutionDefault": 1.0,
+  "minZoomDistance": 5,
+  "maxZoomDistance": 100000,
+  "hiresSliderMax": 1000,
+  "hiresSliderDefault": 300,
+  "hiresSliderMin": 0,
+  "lowresSliderMax": 10000,
+  "lowresSliderDefault": 5000,
+  "lowresSliderMin": 500,
+  "maps": [
+    "nether",
+    "end",
+    "overworld"
+  ],
+  "scripts": [
+    "assets/endershare-live.js"
+  ],
+  "styles": []
+}
